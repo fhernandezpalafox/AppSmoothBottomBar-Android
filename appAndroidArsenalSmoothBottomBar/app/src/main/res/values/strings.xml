@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">appAndroidArsenalSmoothBottomBar</string>
+    <string name="menu_dashboard">Inicio</string>
+    <string name="menu_leaderboard">Menu 2</string>
+    <string name="menu_store">contacto</string>
+    <string name="menu_profile">sobre mi</string>
+</resources>
